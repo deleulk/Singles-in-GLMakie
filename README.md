@@ -14,8 +14,8 @@ add pkg Random. U kunt nakijken of deze al ge¨ınstalleerd zijn door status in
 dezelfde repl in te typen.
 1. Nu heeft u alle benodigdheden ge¨ınstalleerd op uw computer en bent u
 klaar om het spel te spelen.
-2. Klik op de hyperlink in de bijlage en downloadt de twee bestanden die u
-op die pagina vindt.
+2. Klik op de hyperlink in de bijlage en download de twee bestanden die u
+op die pagina vindt: "singles_finaal.jl" en "singles_bot.jl".
 3. Wanneer dit gelukt is zorgt u dat ze in dezelfde folder zitten. Vervolgens
 opent u de folder in Microsoft VsCode
 4. Dan rest u nog het bestand singles_bot.jl te runnen door rechtsboven
